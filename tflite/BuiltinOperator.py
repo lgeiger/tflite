@@ -119,7 +119,4 @@ class BuiltinOperator(object):
     QUANTIZE = 114
     MATRIX_SET_DIAG = 115
     ROUND = 116
-    HARD_SWISH = 117
-    IF = 118
-    WHILE = 119
 

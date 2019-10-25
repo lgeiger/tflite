@@ -94,7 +94,4 @@ class BuiltinOptions(object):
     MatrixDiagOptions = 88
     QuantizeOptions = 89
     MatrixSetDiagOptions = 90
-    HardSwishOptions = 91
-    IfOptions = 92
-    WhileOptions = 93
 
