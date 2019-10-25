@@ -22,7 +22,6 @@ from .Conv2DOptions import *
 from .CosOptions import *
 from .CustomOptionsFormat import *
 from .CustomQuantization import *
-from .DepthToSpaceOptions import *
 from .DepthwiseConv2DOptions import *
 from .DequantizeOptions import *
 from .DivOptions import *
@@ -40,8 +39,6 @@ from .GatherNdOptions import *
 from .GatherOptions import *
 from .GreaterEqualOptions import *
 from .GreaterOptions import *
-from .HardSwishOptions import *
-from .IfOptions import *
 from .L2NormOptions import *
 from .LSHProjectionOptions import *
 from .LSHProjectionType import *
@@ -58,7 +55,6 @@ from .LogicalOrOptions import *
 from .MatrixDiagOptions import *
 from .MatrixSetDiagOptions import *
 from .MaximumMinimumOptions import *
-from .Metadata import *
 from .MirrorPadMode import *
 from .MirrorPadOptions import *
 from .Model import *
@@ -114,6 +110,5 @@ from .UnidirectionalSequenceLSTMOptions import *
 from .UniqueOptions import *
 from .UnpackOptions import *
 from .WhereOptions import *
-from .WhileOptions import *
 from .ZerosLikeOptions import *
 ########################## ABOVE ARE AUTO-GENERATED ##########################
